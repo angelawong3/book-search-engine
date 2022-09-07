@@ -17,7 +17,7 @@ Book searching app built using the MERN stack with a React front end, MongoDB da
 
 ### Screenshot
 
-![UI](./public/img/)
+![UI](./client/public/img/UI.png)
 User Interface
 
 ### Technologies Used
@@ -35,7 +35,7 @@ MERN stack
 
 ### Link:
 
-Click []() to go to the app.
+Click [https://agile-woodland-57705.herokuapp.com/](https://agile-woodland-57705.herokuapp.com/) to go to the app.
 
 ### License
 
